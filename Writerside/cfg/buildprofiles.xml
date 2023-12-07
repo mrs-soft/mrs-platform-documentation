@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <primary-color>dracula</primary-color>
+        <header-logo>logo.png</header-logo>
+        <product-web-url>https://developers.mrspro.ru/</product-web-url>
+        <custom-favicons>favicon.png</custom-favicons>
+
+    </variables>
+    <build-profile instance="in">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <footer>
+        <copyright>2023, МРС.</copyright>
+        
+        <social type="blog" href="https://vk.com/m_r_s"></social>
+        <social type="email" href="enquiry@mrsapp.ru"></social>
+        <link href="https://mrspro.ru/">О компании</link>
+        <link href="https://mrsapp.ru/">Платформа</link>
+
+    </footer>
+
+</buildprofiles>
