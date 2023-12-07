@@ -4,11 +4,7 @@
 
     <variables>
         <primary-color>dracula</primary-color>
-        <header-logo>logo.png</header-logo>
         <product-web-url>https://developers.mrspro.ru/</product-web-url>
-        <!--
-        <custom-favicons>favicon.png</custom-favicons>
-        -->
 
     </variables>
     <build-profile instance="in">
