@@ -5,7 +5,7 @@
     <variables>
         <primary-color>dracula</primary-color>
         <product-web-url>https://developers.mrspro.ru/</product-web-url>
-        <versions-switcher>../help-versions.json</versions-switcher>
+        <versions-switcher>https://raw.githubusercontent.com/mrs-soft/mrs-platform-documentation/version_0.9/Writerside/help-versions.json</versions-switcher>
     </variables>
     <build-profile instance="in">
         <variables>
